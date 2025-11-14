@@ -305,7 +305,7 @@ El modelo rankeó casi perfectamente a los candidatos principales, demostrando s
 
 *Nota: Para ver los rankings detallados y predicciones específicas, ejecuta el notebook machine_learning.ipynb.*
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 ### Programación y Ciencia de Datos
 - **Python**: Lenguaje de programación principal
