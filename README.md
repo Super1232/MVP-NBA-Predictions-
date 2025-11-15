@@ -17,8 +17,6 @@ Un proyecto completo de machine learning que predice los resultados de la votaci
 - [Resultados](#-resultados)
 - [Tecnologías Utilizadas](#-tecnologías-utilizadas)
 - [Mejoras Futuras](#-mejoras-futuras)
-- [Contribuir](#-contribuir)
-- [Licencia](#-licencia)
 - [Contacto](#-contacto)
 
 ## Descripción del Proyecto
