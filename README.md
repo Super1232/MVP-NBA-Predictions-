@@ -18,6 +18,8 @@ Un proyecto completo de machine learning que predice los resultados de la votaci
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Mejoras Futuras](#mejoras-futuras)
 - [Contacto](#contacto)
+- [Agradecimientos](#agradecimientos)
+- [Referencias](#referencias)
 
 ## Descripción del Proyecto
 
