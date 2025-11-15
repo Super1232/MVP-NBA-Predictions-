@@ -8,16 +8,16 @@ Un proyecto completo de machine learning que predice los resultados de la votaci
 
 ## Tabla de Contenidos
 
-- [Descripción del Proyecto](#-descripción-del-proyecto)
-- [Características Principales](#-características-principales)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Instalación](#-instalación)
-- [Uso](#-uso)
-- [Metodología](#-metodología)
-- [Resultados](#-resultados)
-- [Tecnologías Utilizadas](#-tecnologías-utilizadas)
-- [Mejoras Futuras](#-mejoras-futuras)
-- [Contacto](#-contacto)
+- [Descripción del Proyecto](#descripción-del-proyecto)
+- [Características Principales](#características-principales)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Metodología](#metodología)
+- [Resultados](#resultados)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Mejoras Futuras](#mejoras-futuras)
+- [Contacto](#contacto)
 
 ## Descripción del Proyecto
 
