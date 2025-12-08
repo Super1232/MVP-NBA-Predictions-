@@ -364,4 +364,4 @@ El modelo rankeó casi perfectamente a los candidatos principales, demostrando s
 
 **¡Si este proyecto te pareció útil, considera darle una estrella!** ⭐
 
-*Última Actualización: Noviembre 2024*
+*Última Actualización: Noviembre 2025*
