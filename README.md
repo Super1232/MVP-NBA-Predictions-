@@ -1,7 +1,6 @@
 # Predicción del MVP de la NBA
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Licencia](https://img.shields.io/badge/Licencia-MIT-green.svg)](LICENSE)
 [![Machine Learning](https://img.shields.io/badge/ML-Scikit--learn-orange.svg)](https://scikit-learn.org/)
 
 Un proyecto completo de machine learning que predice los resultados de la votación del Jugador Más Valioso (MVP) de la NBA utilizando estadísticas históricas de jugadores, datos de rendimiento de equipos y métricas de evaluación personalizadas.
